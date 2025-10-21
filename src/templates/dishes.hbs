@@ -1,0 +1,10 @@
+<ul class="dishes_list">
+    {{#each dishes}}
+    <li>
+        <img class="image" src="{{preview}}">
+        <h2>{{name}}</h2>
+        <p class="description-text">{{description}}</p>
+        <button class="buy-btn">{{price}}$</button>
+    </li>
+    {{/each}}
+</ul>

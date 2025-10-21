@@ -1,0 +1,34 @@
+{ "dishes":
+    [
+        {
+            "name": "Паста Карбонара",
+            "description": "Паста карбона́ра - спагеті або рігатоні з дрібними шматочками щековини, змішані з соусом із яєць, сиру пекоріно романо, солі та свіжомеленого чорного перцю.",
+            "preview": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.J6ew1Jc5jKNMrC-awW8p_AHaE7%3Fcb%3D12%26pid%3DApi&f=1&ipt=76b1980cb357544304d5b4405743a5103a74d187a34c5088a2730c375a4f6e82&ipo=images",
+            "price": 300
+        },
+        {
+            "name": "Хінкалі",
+            "description": "Хінкалі – ідеальна ідея для смачного обіду. Вони мають неперевершений вигляд і просто захоплюють своїм смаком.",
+            "preview": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.z1IiEzAEc76nJgFuXqlmWgHaE8%3Fcb%3D12%26pid%3DApi&f=1&ipt=b98491721b01389755e84fe30a70da77a43ed315c6e4c03b9fa3e4d0e185985d&ipo=images",
+            "price": 250
+        },
+        {
+            "name": "Піца 'Пепероні'",
+            "description": "Пепероні – це італійський тип салямі, який відомий своїм гострим та ароматним смаком. Цей вид салямі став популярним у всьому світі та часто використовується в різних стравах, таких як піца, паста, салати та супи.",
+            "preview": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthvnext.bing.com%2Fth%2Fid%2FOIP.ZUqv1Ttx_aISzYimVqSXIAHaFj%3Fcb%3D12%26pid%3DApi%26ucfimg%3D1&f=1&ipt=c5a70bdfe2d4f8fb99b4346d471a825b06cb479ca05224d2e192e3b584b91b65&ipo=images",
+            "price": 400
+        },
+        {
+            "name": "Реберця",
+            "description": "Соковиті, ароматні, з ніжним м’ясом, що буквально спадає з кістки, реберця належать до тих страв, перед якими важко встояти. ",
+            "preview": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.h9H3OGaHWyvjlTnshfWS_wHaHa%3Fcb%3D12%26pid%3DApi&f=1&ipt=9a870c810d4e07fc2bd2ad3f648213c4783138b79dcd78220d5bd7f1ea520e63&ipo=images",
+            "price": 150
+        },
+        {
+            "name": "Салат 'Цезар'",
+            "description": "Салат 'Цезар' – це одна з найвідоміших страв світової кухні, який поєднує в собі ніжність листя салату, хрусткі грінки, смачний соус і ароматний пармезан.",
+            "preview": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.FV-nVJxvtP3yknQRJ-i5zwHaHa%3Fcb%3D12%26pid%3DApi&f=1&ipt=1d13e5bb245e7192e037c580ce77b31bfc82dbc51002bb64cca708b02750e5d4&ipo=images",
+            "price": 400
+        }
+    ]
+}

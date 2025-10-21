@@ -5,8 +5,8 @@
   "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx parcel index.html",
-    "build": "parcel build ./src/* --no-cache --public-url /",
+    "start": "npx parcel ./src/index.html",
+    "build": "parcel build ./src/index.html --no-cache --public-url /",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "re": "npm run predeploy && git add . && git commit -m main && git push origin main && npm run deploy"
@@ -14,5 +14,12 @@
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.8",
+    "include": "^1.1.0",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "parcel-transformer-hbs": "^1.0.4",
+    "posthtml": "^0.16.7"
   }
 }
