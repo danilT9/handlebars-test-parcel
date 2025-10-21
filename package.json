@@ -9,7 +9,7 @@
     "build": "parcel build ./src/html/* --no-cache --public-url /",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "re": "git add . && git commit -m main && git push origin main && npm run predeploy && npm run deploy"
+    "re": "npm run predeploy && git add . && git commit -m main && git push origin main && npm run deploy"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
