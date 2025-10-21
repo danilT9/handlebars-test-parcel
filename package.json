@@ -10,5 +10,9 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "re": "git add . && git commit -m main && git push origin main && npm run predeploy && npm run deploy"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "parcel": "^2.16.0"
   }
 }
